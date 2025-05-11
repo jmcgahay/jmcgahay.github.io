@@ -13,16 +13,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+## About me
+
 I'm a 3rd year PhD student in Linguistics at the University of California, Los Angeles. 
 
 My primary research involves using computer simulations of sound change informed by rational speech perception models to shed light on phonological typology. 
 
-# Projects
+## Projects
 
-## Iterated Confusion Minimization
+#### Iterated Confusion Minimization
 
-## Extracting phoneme confusability estimates from HMM/GMM acoustic models
+#### Extracting phoneme confusability estimates from HMM/GMM acoustic models
 
-## Frequency effects in phonetic categorizatoin
+#### Frequency effects in phonetic categorizatoin
 
-## Phonemic restoration and phonological neighborhood effects
+#### Phonemic restoration and phonological neighborhood effects
