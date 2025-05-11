@@ -1,28 +1,160 @@
 {
   "basics": {
     "name": "John McGahay",
-    "label": "Phd Student in Linguistics",
-    "image": "",
-    "email": "jmcgahay@g.ucla.edu",
-    "phone": "+1-845-235-6256",
-    "url": "https://jmcgahay.github.io",
-    "summary": "3rd Year PhD student in Linguistics at UCLA."
+    "label": "PhD Student in Linguistics",
+    "email": "",
+    "phone": "",
+    "location": {
+      "city": "Los Angeles",
+      "region": "CA",
+      "countryCode": "US"
+    },
+    "profiles": []
   },
   "education": [
     {
-      "institution": "University of Pennsylvania",
-      "location": "Philadelphia, PA",
-      "area": "Linguistics \& Cognitive Science",
-      "studyType": "BA",
-      "startDate": "2015-08",
-      "endDate": "2019-05"
+      "institution": "University of California, Los Angeles",
+      "area": "Linguistics",
+      "studyType": "PhD",
+      "startDate": "2024",
+      "endDate": "2027",
+      "gpa": "",
+      "courses": []
     },
     {
       "institution": "University of California, Los Angeles",
-      "location": "Los Angeles, CA",
       "area": "Linguistics",
-      "studyType": "PhD",
-      "startDate": "2022-09"
+      "studyType": "MA",
+      "endDate": "2024",
+      "thesis": "Vowel System Typology and Confusion Minimization",
+      "advisors": ["Bruce Hayes", "Megha Sundara", "Meg Cychosz"]
+    },
+    {
+      "institution": "University of Pennsylvania",
+      "area": "Linguistics and Cognitive Science",
+      "studyType": "BA",
+      "endDate": "2019",
+      "thesis": "The Effect of Conditioned Mergers on Underlying Representations",
+      "advisors": ["Charles Yang"],
+      "minors": ["Computer Science", "German"]
+    },
+    {
+      "institution": "Berlin Consortium for German Studies",
+      "area": "German Studies",
+      "studyType": "Semester Abroad",
+      "endDate": "2017"
+    },
+    {
+      "institution": "Regis High School",
+      "studyType": "High School Diploma",
+      "endDate": "2015"
+    }
+  ],
+  "work": [
+    {
+      "position": "Junior Computational Linguist",
+      "company": "Verbio Technologies",
+      "startDate": "2021-06",
+      "endDate": "2022-07",
+      "summary": "Developed intent-classification systems for call center automation; manipulated large language datasets via Bash scripting"
+    },
+    {
+      "position": "Natural Language Understanding Specialist",
+      "company": "Cerence",
+      "startDate": "2021-03",
+      "endDate": "2021-06",
+      "summary": "Trained and tested neural-network-based language models for automotive voice control"
+    },
+    {
+      "position": "Computational Linguistics Temp Worker",
+      "company": "Linguistic Data Consortium",
+      "startDate": "2020-04",
+      "endDate": "2021-08",
+      "summary": "Worked on forced aligner project and transcribed linguistic data for neurodegenerative research"
+    },
+    {
+      "position": "Computational Linguistics Temp Worker",
+      "company": "Linguistic Data Consortium",
+      "startDate": "2019-05",
+      "endDate": "2019-08",
+      "summary": "Phonetic/phonological analysis of Portuguese dialects for speech recognition; implemented grammars using Pynini and Thrax"
+    },
+    {
+      "position": "Fulbright English Teaching Assistant",
+      "company": "Nicolaus-Cusanus-Gymnasium",
+      "startDate": "2019-09",
+      "endDate": "2020-03",
+      "summary": "Assisted English instruction in Germany as a Fulbright Scholar"
+    },
+    {
+      "position": "German Tutor",
+      "company": "Penn Language Center",
+      "startDate": "2015-09",
+      "endDate": "2019-05",
+      "summary": "Tutored undergraduate students in German language"
+    }
+  ],
+  "volunteer": [],
+  "awards": [
+    {
+      "title": "Fulbright Scholar",
+      "date": "2019-2022",
+      "awarder": "Fulbright Germany"
+    },
+    {
+      "title": "Summa cum Laude",
+      "date": "2019",
+      "awarder": "University of Pennsylvania"
+    },
+    {
+      "title": "Major Honors in Linguistics",
+      "date": "2019",
+      "awarder": "Penn Department of Linguistics"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2015-2019",
+      "awarder": "University of Pennsylvania"
+    },
+    {
+      "title": "Best Undergraduate Abstract",
+      "date": "2019",
+      "awarder": "Penn Linguistics Conference 43"
+    },
+    {
+      "title": "Phi Beta Kappa",
+      "date": "2018",
+      "awarder": "University of Pennsylvania"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical",
+      "keywords": ["Python", "Praat", "R", "LaTeX", "Microsoft Office", "Haskell", "OCaml", "Java", "Matlab", "ELAN"]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "English (native)",
+        "German (fluent)",
+        "French", "Spanish (intermediate)",
+        "Irish", "Portuguese", "Russian", "Italian", "ASL (basic)"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Megha Sundara, Ph.D.",
+      "email": "megha.sundara@humnet.ucla.edu",
+      "phone": "+1-310-825-0041"
+    },
+    {
+      "name": "Bruce Hayes, Ph.D.",
+      "email": "bhayes@humnet.ucla.edu"
+    },
+    {
+      "name": "Meg Cychosz, Ph.D.",
+      "email": "mcychosz4@ucla.edu"
     }
   ]
 }

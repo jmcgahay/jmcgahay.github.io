@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: /d͡ʒɑn mɪk'ɡeɪhi/ 
+subtitle: /dʒɑn mɪk'ɡeɪhi/ 
 
 profile:
   align: right
@@ -25,6 +25,8 @@ My primary research involves using computer simulations of sound change informed
 
 #### Extracting phoneme confusability estimates from HMM/GMM acoustic models
 
-#### Frequency effects in phonetic categorizatoin
+
+
+#### Frequency effects in phonetic categorization
 
 #### Phonemic restoration and phonological neighborhood effects
