@@ -16,7 +16,7 @@
       "area": "Linguistics",
       "studyType": "PhD",
       "startDate": "2024",
-      "endDate": "2027 (expected)",
+      "endDate": "2027",
       "location": "Los Angeles, CA"
     },
     {
@@ -44,7 +44,8 @@
       "institution": "Berlin Consortium for German Studies",
       "area": "German-language coursework",
       "studyType": "Study Abroad",
-      "endDate": "2017",
+      "startDate": "2017-03",
+      "endDate": "2017-07",
       "location": "Berlin, Germany"
     },
     {
@@ -124,7 +125,7 @@
       "endDate": "2016-08"
     }
   ],
-  "work in industry": [
+  "work_in_industry": [
     {
       "name": "Verbio Technologies",
       "position": "Junior Computational Linguist",
