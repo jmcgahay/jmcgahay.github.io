@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "Projects",
+          title: "projects",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "You can download a pdf version of my CV (updated May 2024) by clicking the button to the top right.",
+          description: "You can download a pdf version of my CV (updated May 2025) by clicking the button to the top right.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
