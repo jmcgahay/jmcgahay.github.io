@@ -60,24 +60,28 @@
       "name": "A Theory of Vowel System Typology Based on Confusion Minimization",
       "publisher": "Language (under review)",
       "releaseDate": "",
-      "type": "journal"
+      "type": "journal",
+      "summary": "journal article"
     },
     {
       "name": "Modeling Vowel System Typology Using Iterated Confusion Minimization",
       "publisher": "Interspeech 2025 (under review)",
-      "type": "conference"
+      "type": "conference",
+      "summary": "conference talk and proceedings"
     },
     {
       "name": "A Theory of Vowel Dispersion Based on Probabilistic Modeling of Optimized Speakers and Listeners",
       "publisher": "Acoustics Sydney 2023",
       "releaseDate": "2023-12",
-      "type": "poster"
+      "type": "poster",
+      "summary": "conference poster"
     },
     {
       "name": "The Effect of Conditioned Mergers on Underlying Representations",
       "publisher": "Penn Linguistics Conference 43",
       "releaseDate": "2019-03",
-      "type": "conference"
+      "type": "conference",
+      "summary": "conference talk"
     }
   ],
   "fellowships": [
