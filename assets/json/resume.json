@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "John McGahay",
-    "label": "PhD Candidate in Linguistics",
+    "label": "PhD Student in Linguistics",
     "email": "jmcgahay@g.ucla.edu",
     "location": {
       "city": "West Hollywood",
@@ -55,7 +55,7 @@
       "location": "New York, NY"
     }
   ],
-  "Research Presentations": [
+  "research presentations": [
     {
       "name": "A Theory of Vowel System Typology Based on Confusion Minimization",
       "publisher": "Language (under review)",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Graduate Research Mentorship",
-      "description": "Modeling Human Speech Perception Using ASR",
+      "description": "Modeling Human Speech Perception Using Automatic Speech Recognition",
       "startDate": "2024-09",
       "endDate": "2025-06"
     },
@@ -144,7 +144,7 @@
       "position": "Computational Linguistics Temp Worker",
       "startDate": "2020-04",
       "endDate": "2021-08",
-      "summary": "Supported development of forced aligner; transcribed clinical linguistic data"
+      "summary": "Supported development of forced aligner; transcribed clinical linguistic data for research into neurodegenerative diseases."
     },
     {
       "name": "Linguistic Data Consortium",
