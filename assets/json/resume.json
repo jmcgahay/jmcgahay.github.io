@@ -84,131 +84,134 @@
       "summary": "conference talk"
     }
   ],
-  "fellowships": [
-    {
-      "name": "Graduate Research Mentorship",
-      "description": "Modeling Allophony Using Iterated Confusion Minimization",
-      "startDate": "2025-09",
-      "endDate": "2026-06"
-    },
-    {
-      "name": "Graduate Summer Research Mentorship",
-      "description": "Modeling the Great Vowel Shift Using Iterated Confusion Minimization",
-      "startDate": "2025-06",
-      "endDate": "2025-09"
-    },
-    {
-      "name": "Graduate Research Mentorship",
-      "description": "Modeling Human Speech Perception Using Automatic Speech Recognition",
-      "startDate": "2024-09",
-      "endDate": "2025-06"
-    },
-    {
-      "name": "Biggs Graduate Fellowship",
-      "description": "Awarded by UCLA Department of Linguistics",
-      "startDate": "2024-03",
-      "endDate": "2024-06"
-    },
-    {
-      "name": "Graduate Summer Research Mentorship",
-      "description": "Testing a Probabilistic Theory of Phoneme Dispersion",
-      "startDate": "2023-06",
-      "endDate": "2023-09"
-    },
-    {
-      "name": "Jumpstart for Juniors",
-      "description": "Independent summer research at UPenn on conditioned mergers",
-      "startDate": "2018-06",
-      "endDate": "2018-08"
-    },
-    {
-      "name": "Penn Undergraduate Research Mentorship",
-      "description": "Summer RA work under Prof. Meredith Tamminga",
-      "startDate": "2016-06",
-      "endDate": "2016-08"
-    }
-  ],
   "work": [
     {
-      "organization": "TA (50%) for LING 165A: Computational Linguistics I",
-      "position": "Teaching Assistant",
+      "name": "UCLA Linguistics Department",
+      "position": "TA (50%) for LING 165A: Computational Linguistics I",
       "startDate": "2023-09",
-      "endDate": "2023-12"
+      "endDate": "2023-12",
+      "location": "Los Angeles, CA",
+      "summary": "TA to Laurel Perkins; Running weekly discussion sections and office hours, grading, and responding to student emails."
     },
     {
-      "organization": "UCLA Linguistics Department",
+      "name": "UCLA Linguistics Department",
       "position": "TA (25%) for LING C211: Intonation",
       "startDate": "2024-04",
-      "endDate": "2024-06"
+      "endDate": "2024-06",
+      "location": "Los Angeles, CA",
+      "summary": "TA to Sun-Ah Jun; Running weekly discussion sections and office hours, grading, and responding to student emails."
     },
     {
-      "organization": "UCLA Linguistics Department",
+      "name": "UCLA Linguistics Department",
       "position": "TA (50%) for LING 165A: Phonology II",
       "startDate": "2024-01",
-      "endDate": "2024-03"
+      "endDate": "2024-03",
+      "location": "Los Angeles, CA",
+      "summary": "TA to Sam Zukoff; Running weekly discussion sections and office hours, grading, and responding to student emails."
     },
     {
-      "organization": "UCLA Linguistics Department",
+      "name": "UCLA Linguistics Department",
       "position": "TA (25%) for LING 102: Intro to Applied Phonetics",
       "startDate": "2024-01",
-      "endDate": "2024-03"
+      "endDate": "2024-03",
+      "location": "Los Angeles, CA",
+      "summary": "TA to Elise Bell; Running weekly discussion sections and office hours, and responding to student emails."
     },
     {
-      "organization": "UCLA Linguistics Department",
+      "name": "UCLA Linguistics Department",
       "position": "TA (50%) for LING 103: Intro to General Phonetics",
       "startDate": "2023-09",
-      "endDate": "2023-12"
+      "endDate": "2023-12",
+      "location": "Los Angeles, CA",
+      "summary": "TA to Sun-Ah June; Running weekly discussion sections and office hours, grading, and responding to student emails."
     },
     {
       "name": "Verbio Technologies",
       "position": "Junior Computational Linguist",
       "startDate": "2021-06",
       "endDate": "2022-07",
-      "summary": "Supported development of intent-classification systems used for call center automation; Processed and formatted training data using bash/python scripts."
+      "summary": "Supported development of intent-classification systems used for call center automation; Processed and formatted training data using bash/python scripts.",
+      "location": "New York, NY"
     },
     {
       "name": "Cerence",
       "position": "Natural Language Understanding Specialist",
       "startDate": "2021-03",
       "endDate": "2021-06",
-      "summary": "Trained and tested neural-network-based language models for voice control systems for cars."
+      "summary": "Trained and tested neural-network-based language models for voice control systems for cars.",
+      "location": "Poughkeepsie, NY"
     },
     {
       "name": "Linguistic Data Consortium",
       "position": "Computational Linguistics Temp Worker",
       "startDate": "2020-04",
       "endDate": "2021-08",
-      "summary": "Supported development of forced aligner; transcribed clinical linguistic data for research into neurodegenerative diseases."
-    },
-    {
-      "name": "Linguistic Data Consortium",
-      "position": "Computational Linguistics Temp Worker",
-      "startDate": "2019-05",
-      "endDate": "2019-08",
-      "summary": "Implemented phonological rule grammars in OpenFst-based package Pynini for ASR of Portuguese dialects."
+      "summary": "Supported development of forced aligner; transcribed clinical linguistic data for research into neurodegenerative diseases.",
+      "location": "Philadelphia, PA"
     },
     {
       "name": "Nicolaus-Cusanus-Gymnasium",
       "position": "Fulbright English Teaching Assistant",
       "startDate": "2019-09",
       "endDate": "2020-03",
-      "summary": "Assisted English instruction for students in Germany."
+      "summary": "Assisted English instruction for students in Germany.",
+      "location": "Bonn, Germany"
+    },
+    {
+      "name": "Linguistic Data Consortium",
+      "position": "Computational Linguistics Temp Worker",
+      "startDate": "2019-05",
+      "endDate": "2019-08",
+      "summary": "Implemented phonological rule grammars in OpenFst-based package Pynini for ASR of Portuguese dialects.",
+      "location": "Philadelphia, PA"
     },
     {
       "name": "Penn Language Center",
       "position": "German Tutor",
       "startDate": "2015-09",
       "endDate": "2019-05",
-      "summary": "Tutored students of German at the University of Pennsylvania."
+      "summary": "Tutored students of German at the University of Pennsylvania.",
+      "location": "Philadelphia, PA"
     },
     {
-      "organization": "Penn Linguistics Department",
+      "name": "Penn Linguistics Department",
       "position": "TA for LING 336: Sound Systems in Use",
       "startDate": "2018-08",
-      "endDate": "2018-12"
+      "endDate": "2018-12",
+      "location": "Philadelphia, PA",
+      "summary": "TA to Meredith Tamminga; Moderating in-class undergraduate discussions, assisting students with R scripting during in-class lab time, holding weekly office hours, responding to student emails"
     }
   ],
   "awards": [
+    {
+      "title": "Graduate Research Mentorship",
+      "awarder": "UCLA Graduate Education",
+      "summary": "Project title: \"Modeling Allophony Using Iterated Confusion Minimization\"; Advised by Megha Sundara",
+      "date": "AY 2025-2026"
+    },
+    {
+      "title": "Graduate Summer Research Mentorship",
+      "awarder": "UCLA Graduate Education",
+      "summary": "Project title: \"Project title: \"Modeling the Great Vowel Shift Using Iterated Confusion Minimization\"; Advised by Megha Sundara",
+      "date": "Summer 2025"
+    },
+    {
+      "title": "Graduate Research Mentorship",
+      "awarder": "UCLA Graduate Education",
+      "summary": "Project title: \"Modeling Human Speech Perception Using Automatic Speech Recognition\"; Advised by Megha Sundara",
+      "date": "AY 2024-2025"
+    },
+    {
+      "title": "Biggs Graduate Fellowship",
+      "awarder": "UCLA Department of Linguistics",
+      "date": "Spring 2024"
+    },
+    {
+      "title": "Graduate Summer Research Mentorship",
+      "awarder": "UCLA Graduate Education",
+      "summary": "Project title: \"Testing a Probabilistic Theory of Phoneme Dispersion\"; Advised by Bruce Hayes",
+      "date": "Summer 2023"
+    },
     {
       "title": "Fulbright Scholar",
       "date": "2019",
