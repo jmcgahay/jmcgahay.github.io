@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 2
 cv_pdf: mcgahay_cv_april2024.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: This page is still in progress, but you can download a pdf version of my CV (updated April 2024) by clicking the button to the top right. 
 toc:
   sidebar: left
 ---
