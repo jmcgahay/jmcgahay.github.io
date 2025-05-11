@@ -23,7 +23,16 @@ My primary research involves using computer simulations of sound change informed
 
 #### Iterated Confusion Minimization
 
-#### Extracting phoneme confusability estimates from HMM/GMM acoustic models
+Iterated Confusion Minimization (ICM) is an algorithm and model of sound change based on the interaction of mathematically optimal listeners and speakers over time.
+
+In my [master's thesis](https://www.proquest.com/docview/3116041345), advised by [Bruce Hayes](https://brucehayes.org/) (co-chair), [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/) (co-chair), and [Meg Cychosz](https://megseekosh.github.io/), I demonstrated that ICM simulations over the vowel space improve upon past models in Dispersion Theory in explaining vowel system typology, yielding improved predictions about typological variation and the acoustic structure of larger vowel systems, while also connecting these typological patterns to a plausible model of sound change.  
+A journal article version of the this thesis is currently under review.
+
+Ongoing work involves simulating ICM over phoneme sequences to model patterns of allophony and augmenting ICM with a model of phonetic category acquisition to model patterns of phonemic merger.
+
+
+#### Extracting phoneme confusability measures from HMM/GMM acoustic models
+
 
 
 
