@@ -29,7 +29,7 @@ To fill this gap, I am engaged in ogoing research to extract confusability measu
 
 In the future, I intend to use ICM to simulate frequency effects in sound change. Empirically grounding these simulations requires thorough experimental investigation of how frequency effects influence speech perception.
 
-To this end, I am currently running experiments investigating the effect of monophone frequency in phonetic categorization with collaborators [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/) and [Jeremy Steffman](https://jsteffman.github.io/), who have previously demonstrated biphone frequency effects in phonetic categorization ([Steffman & Sundara, ](https://pubs.aip.org/asa/jel/article/3/12/125202/2929413)).
+To this end, I am currently running experiments investigating the effect of monophone frequency on phonetic categorization in collaboration with my advisor [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/). 
 
 # Phonemic restoration and phonological neighborhood effects
 
