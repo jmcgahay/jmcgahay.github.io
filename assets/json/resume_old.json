@@ -57,13 +57,6 @@
   ],
   "publications": [
     {
-      "name": "Modeling Vowel System Typology Using Iterated Confusion Minimization",
-      "publisher": "Interspeech 2025",
-      "releaseDate": "2025-08",
-      "type": "conference",
-      "summary": "conference proceedings"
-    },
-    {
       "name": "A Theory of Vowel System Typology Based on Confusion Minimization",
       "publisher": "Language (under review)",
       "releaseDate": "",
@@ -71,76 +64,25 @@
       "summary": "journal article"
     },
     {
-      "name": "Vowel Allophony Improves Maximum Likelihood Classification of Warlpiri Consonants",
-      "publisher": "Interspeech 2026 (under review)",
-      "releaseDate": "",
+      "name": "Modeling Vowel System Typology Using Iterated Confusion Minimization",
+      "publisher": "Interspeech 2025",
+      "releaseDate": "2025-08",
       "type": "conference",
-      "summary": "conference proceedings, with Coralie Cram & Megha Sundara"
+      "summary": "conference talk and proceedings"
     },
     {
-      "name": "A Computational Model of Allophony as Dispersion Over Phonetic Sequences",
-      "publisher": "in preparation",
-      "releaseDate": "",
-      "type": "manuscript",
-      "summary": "manuscript in preparation"
-    }
-  ],
-  "research presentations": [
-    {
-      "date": "2026-06",
-      "type": "Poster Presentation",
-      "event": "LabPhon 20",
-      "location": "Montréal, Québec, Canada",
-      "title": "A Computational Account of Merger as Phonetic Dispersion Over Words"
+      "name": "A Theory of Vowel Dispersion Based on Probabilistic Modeling of Optimized Speakers and Listeners",
+      "publisher": "Acoustics Sydney 2023",
+      "releaseDate": "2023-12",
+      "type": "poster",
+      "summary": "conference poster"
     },
     {
-      "date": "2026-05",
-      "type": "Poster Presentation",
-      "event": "ASA Spring 2026 Annual Meeting",
-      "location": "Philadelphia, Pennsylvania, USA",
-      "title": "A Bayesian Account of Perceptual Asymmetries in Confusion Matrix Data"
-    },
-    {
-      "date": "2026-04",
-      "type": "Invited Talk",
-      "event": "UC Berkeley PhonLab",
-      "location": "California, USA",
-      "title": "A Theory of Vowel System Typology Based on Confusion Minimization"
-    },
-    {
-      "date": "2026-01",
-      "type": "Conference Talk",
-      "event": "LSA 2026 Annual Meeting",
-      "location": "New Orleans, Louisiana, USA",
-      "title": "A Computational Model of Allophony as Dispersion over Phonetic Sequences"
-    },
-    {
-      "date": "2025-08",
-      "type": "Conference Talk & Proceedings",
-      "event": "Interspeech 2025",
-      "location": "Rotterdam, The Netherlands",
-      "title": "Modeling Vowel System Typology Using Iterated Confusion Minimization"
-    },
-    {
-      "date": "2023-12",
-      "type": "Poster Presentation",
-      "event": "Acoustics Sydney 2023",
-      "location": "Sydney, Australia",
-      "title": "A Theory of Vowel Dispersion Based on Probabilistic Modeling of Optimized Speakers and Listeners"
-    },
-    {
-      "date": "2019-03",
-      "type": "Conference Talk",
-      "event": "Penn Linguistics Conference 43",
-      "location": "Philadelphia, Pennsylvania, USA",
-      "title": "The Effect of Conditioned Mergers on Underlying Representations"
-    },
-    {
-      "date": "2026-06",
-      "type": "Conference Talk & Proceedings (under review)",
-      "event": "Interspeech 2026",
-      "location": "Sydney, Australia",
-      "title": "Vowel Allophony Improves Maximum Likelihood Classification of Warlpiri Consonants"
+      "name": "The Effect of Conditioned Mergers on Underlying Representations",
+      "publisher": "Penn Linguistics Conference 43",
+      "releaseDate": "2019-03",
+      "type": "conference",
+      "summary": "conference talk"
     }
   ],
   "work": [
@@ -304,34 +246,16 @@
   ],
   "references": [
     {
-      "name": "Bruce Hayes, Ph.D.",
-      "email": "bhayes@humnet.ucla.edu",
-      "position": "MA & PhD chair"
-    },
-    {
       "name": "Megha Sundara, Ph.D.",
-      "email": "megha.sundara@humnet.ucla.edu",
-      "position": "MA & PhD chair"
+      "email": "megha.sundara@humnet.ucla.edu"
     },
     {
-      "name": "David Goldstein, Ph.D.",
-      "email": "dgoldstein@humnet.ucla.edu",
-      "position": "PhD committee member"
-    },
-    {
-      "name": "Connor Mayer, Ph.D.",
-      "email": "cjmayer@uci.edu",
-      "position": "PhD committee member"
-    },
-    {
-      "name": "Laurel Perkins, Ph.D.",
-      "email": "perkinsl@ucla.edu",
-      "position": "PhD committee member"
+      "name": "Bruce Hayes, Ph.D.",
+      "email": "bhayes@humnet.ucla.edu"
     },
     {
       "name": "Meg Cychosz, Ph.D.",
-      "email": "mcychosz4@ucla.edu",
-      "position": "MA committee member"
+      "email": "mcychosz4@ucla.edu"
     }
   ]
 }
