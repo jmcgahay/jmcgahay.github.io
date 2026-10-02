@@ -38,7 +38,7 @@ Manuscript in preparation.
 A computational model of allophony as dispersion over phonetic sequences.
 Manuscript in preparation.
 
-Harris, Jesse; Christian Muxica; and **<span style="font-variant-caps: small-caps;">John McGahay</span>.**
+<span style="font-variant-caps: small-caps;">Harris, Jesse; Christian Muxica;</span> and **<span style="font-variant-caps: small-caps;">John McGahay</span>.**
 The neighborhood has gone to h\*ll: Competition from high frequency lexical neighbors in pupillometry.
 Manuscript in preparation.
 
