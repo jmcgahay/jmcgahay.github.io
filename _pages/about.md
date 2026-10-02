@@ -28,7 +28,7 @@ This suggests that vowel system typology is emergent from sound change dynamics 
 A journal article version of this work is currently under review.
 
 Motivated by the fact that perception of speech segments is sensitive to larger phonetic sequences (cf. [Ganong 1980](https://www.ovid.com/journals/jephp/fulltext/00004788-198002000-00011~phonetic-categorization-in-auditory-word-perception?casa_token=97FvS5j91P0AAAAA%3AvJFHsx-qLEvmV12EzcP-lTzQbKsdMfbndVnyF4xeVUhcXpGeVXbN52Fultqp58Mt-GU8BKUU5CaJ3jcznofqSFhUcX3OV2IXazfaoYs)),
-my Ph.D. dissertation generalizes ICM beyond inventories of individual segments to larger phonetic sequences.
+my PhD dissertation generalizes ICM beyond inventories of individual segments to larger phonetic sequences.
 Work presented at conferences and in preparation for journal submission shows that ICM generalized over biphone sequences can predict allophony as a way to cue difficult conditioning contrasts,
 e.g. vowel allophones to cue /k/-/q/ contrasts in languages like Arabic or Quechua (cf. [Gallagher 2016](https://karger.com/pho/article-abstract/73/2/101/274491/Vowel-Height-Allophony-and-Dorsal-Place-Contrasts)).
 In a similar vein, ICM over words predicts merger of contrasts with low functional load (cf. [Wedel et al. 2013](https://www.sciencedirect.com/science/article/pii/S0010027713000541?casa_token=9VK6eLWEemUAAAAA:K_96kIkpfckI9XB7D5w-SKY3jXQ8K737W8yTZoQQ7hq4rECihUznhqtZg1aU9PIftBArLgiial1Z)),

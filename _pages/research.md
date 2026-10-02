@@ -11,12 +11,12 @@ nav_order: 2
 <span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundara</span>. 2026.
 Vowel allophony improves maximum-likelihood classification of Warlpiri consonants.
 *Proceedings of Interspeech 2026*: 7090–7095.
-[[manuscript]](../assets/pdf/cramMcgahaySundara2026_interspeech2026.pdf)
+[[pdf]](../assets/pdf/cramMcgahaySundara2026_interspeech2026.pdf)
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2025.
 Modeling vowel system typology using iterated confusion minimization.
 *Proceedings of Interspeech 2025*: 2955–2959.
-[[manuscript]](../assets/pdf/mcgahay2025_interspeech2025.pdf)
+[[pdf]](../assets/pdf/mcgahay2025_interspeech2025.pdf)
 
 **<u>Manuscripts under review</u>**
 
@@ -47,12 +47,12 @@ Manuscript in preparation.
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2024.
 Vowel system typology and confusion minimization.
 Los Angeles, CA, USA: University of California, Los Angeles MA thesis.
-[[manuscript]](../assets/pdf/mcgahay2024_mastersThesis.pdf)
+[[pdf]](../assets/pdf/mcgahay2024_mastersThesis.pdf)
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2019.
 The effect of conditioned mergers on underlying representations.
 Philadelphia, PA, USA: University of Pennsylvania BA honors thesis.
-[[manuscript]](../assets/pdf/mcgahay2019_bachelorsHonorsThesis.pdf)
+[[pdf]](../assets/pdf/mcgahay2019_bachelorsHonorsThesis.pdf)
 
 **<u>Conference talks</u>**
 
