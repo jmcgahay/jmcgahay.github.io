@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p style="font-size: 2.00em;"><b>/dʒɑn mə'ɡeɪhi/</b></p>
+<p style="font-size: 1.5em;"><b>/dʒɑn mə'ɡeɪhi/</b></p>
 
 I'm a 5th year PhD candidate in linguistics at the University of California, Los Angeles,
 advised by [Bruce Hayes](https://brucehayes.org/) and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/).
