@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: /dʒɑn mɪk'ɡeɪhi/ 
+subtitle: /dʒɑn mə'ɡeɪhi/ 
 
 profile:
   align: right
@@ -13,8 +13,27 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a 4th year PhD candidate in linguistics at the University of California, Los Angeles. 
+I'm a 5th year PhD candidate in linguistics at the University of California, Los Angeles,
+advised by [Bruce Hayes](https://brucehayes.org/) and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/).
+My research uses computer simulations to show how wide-ranging aspects of natural language sound structure and sound change can emerge from the dynamic interaction of relatively superficial listener and speaker behaviors.
 
-The main focus of my research involves using computer simulations of sound change informed by rational speech perception models to shed light on phonological typology. 
-My dissertation committee includes [Bruce Hayes](https://brucehayes.org/) (co-chair), [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/) (co-chair), [David Goldstein](https://davidgoldstein.netlify.app/), [Connor Mayer](https://sites.socsci.uci.edu/~cjmayer/), and [Laurel Perkins](https://laurelperkins.com/).
+In my [master's thesis](https://www.proquest.com/docview/3116041345),
+I introduced an algorithm called Iterated Confusion Minimization (ICM),
+which simulates the interaction of mathematically optimal listeners and speakers over time.
+Using a precise mathematical definition of listener confusion based in a Bayesian speech perception model,
+this algorithm formalizes perception-production feedback mechanisms assumed by existing sound change models.
+ICM simulations implemented over the vowel space predict common sound changes like chain shifts and outperform existing vowel dispersion models in predicting cross-linguistic trends in vowel system structure.
+This suggests that vowel system typology is emergent from sound change dynamics rather than needing to be hard-wired in the human language faculty.
+A journal article version of this work is currently under review.
 
+Motivated by the fact that perception of speech segments is sensitive to larger phonetic sequences (cf. [Ganong 1980](https://www.ovid.com/journals/jephp/fulltext/00004788-198002000-00011~phonetic-categorization-in-auditory-word-perception?casa_token=97FvS5j91P0AAAAA%3AvJFHsx-qLEvmV12EzcP-lTzQbKsdMfbndVnyF4xeVUhcXpGeVXbN52Fultqp58Mt-GU8BKUU5CaJ3jcznofqSFhUcX3OV2IXazfaoYs),
+my Ph.D. dissertation generalizes ICM beyond inventories of individual segments to larger phonetic sequences.
+Work presented at conferences and in preparation for journal submission shows that ICM generalized over biphone sequences can predict allophony as a way to cue difficult conditioning contrasts,
+e.g. vowel allophones to cue /k/-/q/ contrasts in languages like Arabic or Quechua (cf. [Gallagher 2016](https://karger.com/pho/article-abstract/73/2/101/274491/Vowel-Height-Allophony-and-Dorsal-Place-Contrasts)),
+and ICM over words predicts merger of contrasts with low functional load (cf. [Wedel _et al._ 2013](https://www.sciencedirect.com/science/article/pii/S0010027713000541?casa_token=9VK6eLWEemUAAAAA:K_96kIkpfckI9XB7D5w-SKY3jXQ8K737W8yTZoQQ7hq4rECihUznhqtZg1aU9PIftBArLgiial1Z)),
+e.g. the _cot-caught_ merger is perceptually optimizing in rhotic US English, where it is rapidly spreading, because it allows for reallocation of phonetic space to more important vowel contrasts that distinguish a larger number of word minimal pairs.
+
+Related to this work,
+I am interested in combining Bayesian speech perception models with experimentally generated perceptual confusion matrix data (e.g. [Miller & Nicely, 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) to improve our understanding of the structure of perceptual confusability,
+particular with respect to sounds like consonants whose acoustics are more difficult to model with a low-dimensional space compared to vowels.
+Recently, I have become interested in connecting Bayesian notions of perceptual confusability with information-theoretic notions of communicative efficiency.
