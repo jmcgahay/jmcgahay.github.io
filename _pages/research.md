@@ -83,12 +83,12 @@ Invited talk presented to the UC Berkeley PhonLab, Berkeley, CA, USA.
 
 **<u>Conference posters</u>**
 
-<span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundarae</span>. 2026.
+<span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundara</span>. 2026.
 Vowel allophony improves maximum-likelihood classification of Warlpiri consonants.
 Poster presented at Interspeech 2026, Sydney, NSW, Australia.
 [[poster]](../assets/pdf/cramMcgahaySundara_interspeech2026_poster1.pdf)
 
-<span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundarae</span>. 2026.
+<span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundara</span>. 2026.
 Vowel inventory size moderates the contribution of vowel allophony to consonant classification:
 Evidence from Warlpiri and Dalabon.
 Poster presented at Interspeech 2026, Sydney, NSW, Australia.
