@@ -42,7 +42,7 @@ Harris, Jesse; Christian Muxica; and **John McGahay.**
 The neighborhood has gone to h\*ll: Competition from high frequency lexical neighbors in pupillometry.
 Manuscript in preparation.
 
-<u>Academic theses</u>**
+**<u>Academic theses</u>**
 
 **McGahay, John**. 2024.
 Vowel system typology and confusion minimization.

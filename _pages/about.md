@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p style="font-size: 1.25em;"><b>/dʒɑn mə'ɡeɪhi/</b></p>
+<p style="font-size: 2.00em;"><b>/dʒɑn mə'ɡeɪhi/</b></p>
 
 I'm a 5th year PhD candidate in linguistics at the University of California, Los Angeles,
 advised by [Bruce Hayes](https://brucehayes.org/) and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/).
@@ -35,6 +35,6 @@ In a similar vein, ICM over words predicts merger of contrasts with low function
 e.g. the _cot-caught_ merger is perceptually optimizing in rhotic US English, where it is rapidly spreading, because it allows for reallocation of phonetic space to more important vowel contrasts that distinguish a larger number of word minimal pairs.
 
 Related to this work,
-I am interested in using Bayesian speech perception models to analyze experimentally generated perceptual confusion matrix data (e.g. [Miller & Nicely, 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) in order to improve our understanding of the structure of perceptual confusability,
-particularly with respect to sounds like consonants whose acoustics in comparison to vowels are more difficult to model with a low-dimensional phonetic space.
+I am interested in using Bayesian speech perception models to analyze experimentally generated perceptual confusion matrix data (e.g. [Miller & Nicely 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) in order to improve our understanding of the structure of perceptual confusability,
+particularly with respect to sounds like consonants whose acoustics in comparison to vowels are more difficult to capture with a low-dimensional phonetic space.
 More recently, I have become interested in connecting Bayesian notions of perceptual confusability with information-theoretic notions of communicative efficiency.
