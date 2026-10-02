@@ -6,9 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-## <u>Publications & Manuscripts</u>
-
-### Peer-reviewed publications
+## <u>Peer-reviewed publications</u>
 
 Cram, Coralie; **John McGahay**; and Megha Sundara. 2026.
 Vowel allophony improves maximum-likelihood classification of Warlpiri consonants.
@@ -20,7 +18,7 @@ Modeling vowel system typology using iterated confusion minimization.
 *Proceedings of Interspeech 2025*: 2955–2959.
 [[manuscript]](../assets/pdf/mcgahay2025_interspeech2025.pdf)
 
-### Manuscripts under review
+## <u>Manuscripts under review</u>
 
 **McGahay, John**. 2026.
 A theory of vowel system typology based on confusion minimization.
@@ -30,7 +28,7 @@ Manuscript under review at *Language* (revised submission).
 Optimization of English vowels for word-level perception predicts dialect-specific susceptibility to the cot-caught merger.
 Manuscript submitted to ICPhS 2027.
 
-### Manuscripts in preparation
+## <u>Manuscripts in preparation</u>
 
 **McGahay, John**.
 Rethinking phonetic contrast and effort: An information-theoretic approach.
@@ -44,7 +42,7 @@ Harris, Jesse; Christian Muxica; and **John McGahay.**
 The neighborhood has gone to h\*ll: Competition from high frequency lexical neighbors in pupillometry.
 Manuscript in preparation.
 
-### Academic theses
+## <u>Academic theses</u>
 
 **McGahay, John**. 2024.
 Vowel system typology and confusion minimization.
@@ -56,10 +54,7 @@ The effect of conditioned mergers on underlying representations.
 Philadelphia, PA, USA: University of Pennsylvania BA honors thesis.
 [[manuscript]](../assets/pdf/mcgahay2019_bachelorsHonorsThesis.pdf)
 
-
-## <u>Presentations</u>
-
-### Conference talks
+## <u>Conference talks</u>
 
 **McGahay, John**. 2027.
 Optimizing US English vowels for word-level perception predicts the *cot-caught* merger.
@@ -79,14 +74,14 @@ Talk presented at Interspeech 2025, Rotterdam, The Netherlands.
 The effect of conditioned mergers on underlying representations.
 Talk presented at the 43rd Penn Linguistics Conference, Philadelphia, PA, USA.
 
-### Invited talks
+## <u>Invited talks</u>
 
 **McGahay, John**. 2026.
 A computational theory of vowel system typology based on optimal listeners and speakers.
 Invited talk presented to the UC Berkeley PhonLab, Berkeley, CA, USA.
 [[slides]](../assets/pdf/mcgahay_berkeley2026_slides.pdf)
 
-### Conference posters
+## <u>Conference posters</u>
 
 Cram, Coralie; **John McGahay**; and Megha Sundara. 2026.
 Vowel allophony improves maximum-likelihood classification of Warlpiri consonants.

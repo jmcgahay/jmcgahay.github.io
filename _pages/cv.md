@@ -1,8 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /cv/
+permalink: https://jmcgahay.github.io/assets/pdf/mcgahay_cv.pdf
 nav: true
 nav_order: 3
-redirect: /assets/pdf/mcgahay_cv.pdf
 ---

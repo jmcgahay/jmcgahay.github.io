@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: /dʒɑn mə'ɡeɪhi/ 
+subtitle: <b>/dʒɑn mə'ɡeɪhi/</b>
 
 profile:
   align: right
@@ -34,6 +34,6 @@ In a similar vein, ICM over words predicts merger of contrasts with low function
 e.g. the _cot-caught_ merger is perceptually optimizing in rhotic US English, where it is rapidly spreading, because it allows for reallocation of phonetic space to more important vowel contrasts that distinguish a larger number of word minimal pairs.
 
 Related to this work,
-I am interested in combining Bayesian speech perception models with experimentally generated perceptual confusion matrix data (e.g. [Miller & Nicely, 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) to improve our understanding of the structure of perceptual confusability,
+I am interested in using Bayesian speech perception models to analyze experimentally generated perceptual confusion matrix data (e.g. [Miller & Nicely, 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) in order to improve our understanding of the structure of perceptual confusability,
 particularly with respect to sounds like consonants whose acoustics are more difficult to model with a low-dimensional space compared to vowels.
 More recently, I have become interested in connecting Bayesian notions of perceptual confusability with information-theoretic notions of communicative efficiency.
