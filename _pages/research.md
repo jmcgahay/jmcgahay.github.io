@@ -1,12 +1,12 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 nav: true
 nav_order: 2
 ---
 
-## Publications & Manuscripts
+## <u>Publications & Manuscripts</u>
 
 ### Peer-reviewed publications
 
@@ -57,7 +57,7 @@ Philadelphia, PA, USA: University of Pennsylvania BA honors thesis.
 [[manuscript]](../assets/pdf/mcgahay2019_bachelorsHonorsThesis.pdf)
 
 
-## Presentations
+## <u>Presentations</u>
 
 ### Conference talks
 
