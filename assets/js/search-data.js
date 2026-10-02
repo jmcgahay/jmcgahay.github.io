@@ -4,19 +4,12 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-research",
+  },{id: "nav-research",
           title: "Research",
           description: "",
           section: "Navigation",
@@ -24,15 +17,8 @@ ninja.data = [{
             window.location.href = "/research/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "You can download a pdf version of my CV (updated April 2026) by clicking the button to the top right.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
