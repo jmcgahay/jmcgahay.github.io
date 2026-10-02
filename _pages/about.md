@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p style="font-size: 1.5em;"><b>/dʒɑn mə'ɡeɪhi/</b> <a href="mailto:jmcgahay@g.ucla.edu">jmcgahay@g.ucla.edu</a></p>
+<p style="font-size: 1.5em;"><b>/dʒɑn mə'ɡeɪhi/</b> <a href="mailto:jmcgahay@g.ucla.edu" style="margin-left: 1.5em;">jmcgahay@g.ucla.edu</a></p>
 
 I'm a 5th year PhD candidate in linguistics at the University of California, Los Angeles,
 advised by [Bruce Hayes](https://brucehayes.org/) and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/).
