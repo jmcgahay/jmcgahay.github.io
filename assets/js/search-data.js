@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/https:/jmcgahay.github.io/assets/pdf/mcgahay_cv.pdf";
           },
         },{
         id: 'social-email',
