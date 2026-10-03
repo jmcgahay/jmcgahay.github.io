@@ -28,14 +28,14 @@ These results support the view that vowel system typology is emergent from sound
 A journal article version of this work is currently under review.
 
 Motivated by the fact that perception of speech segments is sensitive to larger phonetic sequences (cf. [Ganong 1980](https://www.ovid.com/journals/jephp/fulltext/00004788-198002000-00011~phonetic-categorization-in-auditory-word-perception?casa_token=97FvS5j91P0AAAAA%3AvJFHsx-qLEvmV12EzcP-lTzQbKsdMfbndVnyF4xeVUhcXpGeVXbN52Fultqp58Mt-GU8BKUU5CaJ3jcznofqSFhUcX3OV2IXazfaoYs)),
-my PhD dissertation generalizes ICM beyond inventories of individual segments to larger phonetic sequences.
-Work presented at conferences and in preparation for journal submission shows that ICM generalized over biphone sequences can predict allophony as a way to cue difficult conditioning contrasts,
+my PhD dissertation generalizes ICM beyond inventories of individual segments to larger sequences like biphones and words.
+[Work presented at conferences](../assets/pdf/mcgahay_lsa2026_slides.pdf) and in preparation for journal submission shows that ICM generalized over biphone sequences can predict allophony as a way to cue difficult conditioning contrasts,
 e.g. vowel allophones to cue /k/-/q/ contrasts in languages like Arabic or Quechua (cf. [Gallagher 2016](https://karger.com/pho/article-abstract/73/2/101/274491/Vowel-Height-Allophony-and-Dorsal-Place-Contrasts)).
 In a similar vein, ICM over words predicts merger of contrasts with low functional load (cf. [Wedel et al. 2013](https://www.sciencedirect.com/science/article/pii/S0010027713000541?casa_token=9VK6eLWEemUAAAAA:K_96kIkpfckI9XB7D5w-SKY3jXQ8K737W8yTZoQQ7hq4rECihUznhqtZg1aU9PIftBArLgiial1Z))
 as a counter-intuitive result of pressures to maximize perceptual contrast.
-For instance, ICM over words predicts the _cot-caught_ merger in rhotic US English (where it is rapidly spreading) because it allows for reallocation of phonetic space for maintenance of more important vowel contrasts that distinguish a larger number of word minimal pairs.
+For instance, [ICM over words predicts the _cot-caught_ merger](../assets/pdf/mcgahay_lsa2027_abstract.pdf) in rhotic US English (where it is rapidly spreading) because it allows for reallocation of phonetic space for maintenance of more important vowel contrasts that distinguish a larger number of word minimal pairs.
 
 Related to this work,
-I am interested in using Bayesian speech perception models to analyze experimentally generated perceptual confusion matrix data (e.g. [Miller & Nicely 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) in order to improve our understanding of the structure of perceptual confusability,
+I am interested in using [Bayesian speech perception models to analyze phoneme confusion matrix data](../assets/pdf/mcgahay_asa190_poster.pdf) (e.g. [Miller & Nicely 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) in order to improve our understanding of the structure of perceptual confusability,
 particularly with respect to sounds like consonants whose acoustics in comparison to vowels are more difficult to capture with a low-dimensional phonetic space.
 More recently, I have begun exploring mathematical connections between Bayesian notions of perceptual confusability and information-theoretic notions of communicative efficiency.

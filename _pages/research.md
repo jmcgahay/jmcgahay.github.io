@@ -59,6 +59,7 @@ Philadelphia, PA, USA: University of Pennsylvania BA honors thesis.
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2027.
 Optimizing US English vowels for word-level perception predicts the *cot-caught* merger.
 Talk to be presented at the annual meeting of the Linguistic Society of America, San Francisco, CA, USA.
+[[abstract]](../assets/pdf/mcgahay_lsa2027_abstract.pdf)
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
 A computational model of allophony as dispersion over phonetic sequences.
