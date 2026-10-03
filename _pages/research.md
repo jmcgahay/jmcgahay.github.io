@@ -64,11 +64,13 @@ Talk to be presented at the annual meeting of the Linguistic Society of America,
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
 A computational model of allophony as dispersion over phonetic sequences.
 Talk presented at the annual meeting of the Linguistic Society of America, New Orleans, LA, USA.
+[[abstract]](../assets/pdf/mcgahay_lsa2026_abstract.pdf)
 [[slides]](../assets/pdf/mcgahay_lsa2026_slides.pdf)
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2025.
 Modeling vowel system typology using iterated confusion minimization.
 Talk presented at Interspeech 2025, Rotterdam, The Netherlands.
+[[proceedings]](../assets/pdf/mcgahay_interspeech2025.pdf)
 [[slides]](../assets/pdf/mcgahay_interspeech2025_slides.pdf)
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2019.
@@ -87,6 +89,7 @@ Invited talk presented to the UC Berkeley PhonLab, Berkeley, CA, USA.
 <span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundara</span>. 2026.
 Vowel allophony improves maximum-likelihood classification of Warlpiri consonants.
 Poster presented at Interspeech 2026, Sydney, NSW, Australia.
+[[proceedings]](../assets/pdf/cramMcgahaySundara_interspeech2026.pdf)
 [[poster]](../assets/pdf/cramMcgahaySundara_interspeech2026_poster1.pdf)
 
 <span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundara</span>. 2026.
