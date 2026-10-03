@@ -14,7 +14,7 @@ Vowel allophony improves maximum-likelihood classification of Warlpiri consonant
 [[pdf]](../assets/pdf/cramMcgahaySundara2026_interspeech2026.pdf)
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2025.
-Modeling vowel system typology using iterated confusion minimization.
+Modeling vowel system typology using Iterated Confusion Minimization.
 *Proceedings of Interspeech 2025*: 2955–2959.
 [[pdf]](../assets/pdf/mcgahay2025_interspeech2025.pdf)
 
