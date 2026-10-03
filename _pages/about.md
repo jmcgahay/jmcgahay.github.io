@@ -26,7 +26,7 @@ this algorithm formalizes perception-production feedback mechanisms assumed by e
 ICM simulations implemented over the vowel space predict common sound changes like chain shifts and outperform existing vowel dispersion models in predicting cross-linguistic trends in vowel system structure.
 These results support the view that vowel system typology is emergent from sound change dynamics rather than needing to be hard-wired in the human language faculty.
 A short version of this work is available as an [Interspeech conference proceedings paper](../assets/pdf/mcgahay2025_interspeech2025.pdf),
-and a journal article version is currently in a second round of review at [<i>Language</i>](https://www.cambridge.org/core/journals/language).
+and a journal article version is currently under a second round of review at [<i>Language</i>](https://www.cambridge.org/core/journals/language).
 
 Motivated by the fact that perception of speech segments is sensitive to larger phonetic sequences (e.g. [the Ganong effect](https://www.ovid.com/journals/jephp/fulltext/00004788-198002000-00011~phonetic-categorization-in-auditory-word-perception?casa_token=97FvS5j91P0AAAAA%3AvJFHsx-qLEvmV12EzcP-lTzQbKsdMfbndVnyF4xeVUhcXpGeVXbN52Fultqp58Mt-GU8BKUU5CaJ3jcznofqSFhUcX3OV2IXazfaoYs)),
 my PhD dissertation generalizes ICM beyond inventories of individual segments to larger sequences like biphones and words.
@@ -48,6 +48,6 @@ More recently, I have begun exploring mathematical connections between Bayesian 
 Beyond my core research program,
 I greatly enjoy collaborating with other researchers,
 especially when it allows me to exercise my (unironic) passion for Praat scripting.
-Recent collaborations include corpus phonetic investigation of the [availability of perceptual cues to consonant place](../assets/pdf/cramMcgahaySundara2026_interspeech2026.pdf) in Australian languages with Coralie Cram and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/),
+Recent collaborations include a corpus phonetic investigation of the [availability of perceptual cues to consonant place](../assets/pdf/cramMcgahaySundara2026_interspeech2026.pdf) in Australian languages with Coralie Cram and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/),
 pupillometric experiments investigating effects of high-frequency lexical neighbors in sentence processing with [Jesse Harris](https://jesseharris.netlify.app/) and [Christian Muxica](https://www.christian-muxica.com/),
 and acoustic analysis of English and Spanish lenition patterns across prosodic positions with a team led by [Jonah Katz](http://jonahkatz.bol.ucla.edu/) and [Sergio Robles-Puente](https://community.wvu.edu/~seroblespuente/).
