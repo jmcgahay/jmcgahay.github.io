@@ -15,7 +15,7 @@ social: false # includes social icons at the bottom of the page
 <p style="font-size: 1.5em;"><b><span style="margin-right: 1em;">/dʒɑn mə'ɡeɪhi/</span></b> <a href="mailto:jmcgahay@g.ucla.edu">jmcgahay@g.ucla.edu</a></p>
 
 I'm a linguistics PhD candidate in my 5th year at the University of California, Los Angeles,
-advised by [Bruce Hayes](https://brucehayes.org/) and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/).
+where I am advised by [Bruce Hayes](https://brucehayes.org/) and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/).
 My research uses computer simulations to show how wide-ranging aspects of natural language sound structure and sound change can emerge from the dynamic interaction of relatively superficial listener and speaker behaviors.
 
 In my [master's thesis](https://www.proquest.com/docview/3116041345),
