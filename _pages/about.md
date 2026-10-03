@@ -25,8 +25,8 @@ Using a precise mathematical definition of listener confusion based in a Bayesia
 this algorithm formalizes perception-production feedback mechanisms assumed by existing sound change models.
 ICM simulations implemented over the vowel space predict common sound changes like chain shifts and outperform existing vowel dispersion models in predicting cross-linguistic trends in vowel system structure.
 These results support the view that vowel system typology is emergent from sound change dynamics rather than needing to be hard-wired in the human language faculty.
-A short version of this work is available as an [Interspeech conference proceedings paper],
-and a journal article version is currently under review at *Language*.
+A short version of this work is available as an [Interspeech conference proceedings paper](../assets/pdf/mcgahay2025_interspeech2025.pdf),
+and a journal article version is currently in a second round of review at *Language*.
 
 Motivated by the fact that perception of speech segments is sensitive to larger phonetic sequences (cf. [Ganong 1980](https://www.ovid.com/journals/jephp/fulltext/00004788-198002000-00011~phonetic-categorization-in-auditory-word-perception?casa_token=97FvS5j91P0AAAAA%3AvJFHsx-qLEvmV12EzcP-lTzQbKsdMfbndVnyF4xeVUhcXpGeVXbN52Fultqp58Mt-GU8BKUU5CaJ3jcznofqSFhUcX3OV2IXazfaoYs)),
 my PhD dissertation generalizes ICM beyond inventories of individual segments to larger sequences like biphones and words.
