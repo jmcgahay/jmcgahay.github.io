@@ -40,3 +40,10 @@ Related to this work,
 I am interested in using [Bayesian speech perception models to analyze phoneme confusion matrix data](../assets/pdf/mcgahay_asa190_poster.pdf) (e.g. [Miller & Nicely 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) in order to improve our understanding of the structure of perceptual confusability,
 particularly with respect to sounds like consonants whose acoustics in comparison to vowels are more difficult to capture with a low-dimensional phonetic space.
 More recently, I have begun exploring mathematical connections between Bayesian notions of perceptual confusability and information-theoretic notions of communicative efficiency.
+
+Beyond my core research program,
+I greatly enjoy collaborating with other researchers,
+especially when it allows me to exercise my passion for Praat scripting.
+Recent collaborations include corpus phonetic investigation of the [availability of perceptual cues to consonant place](../assets/pdf/cramMcgahaySundara2026_interspeech2026.pdf) in Australian languages with Coralie Cram and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/),
+pupillometric experiments investigating effects of high-frequency lexical neighbors in sentence processing with [Jesse Harris](https://jesseharris.netlify.app/) and [Christian Muxica](https://www.christian-muxica.com/),
+and acoustic analysis of English and Spanish lenition patterns across prosodic positions with a team led by [Jonah Katz](http://jonahkatz.bol.ucla.edu/) and [Sergio Robles-Puente](https://community.wvu.edu/~seroblespuente/).
