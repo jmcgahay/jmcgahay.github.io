@@ -68,7 +68,7 @@ Talk presented at the annual meeting of the Linguistic Society of America, New O
 [[slides]](../assets/pdf/mcgahay_lsa2026_slides.pdf)
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2025.
-Modeling vowel system typology using iterated confusion minimization.
+Modeling vowel system typology using Iterated Confusion Minimization.
 Talk presented at Interspeech 2025, Rotterdam, The Netherlands.
 [[proceedings]](../assets/pdf/mcgahay2025_interspeech2025.pdf)
 [[slides]](../assets/pdf/mcgahay_interspeech2025_slides.pdf)
