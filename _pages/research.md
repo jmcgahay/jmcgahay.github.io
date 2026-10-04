@@ -29,7 +29,7 @@ Related to this work,
 I am interested in [analyzing phoneme confusion matrix data](../assets/pdf/mcgahay_asa190_poster.pdf)
 <!-- (e.g. [Miller & Nicely 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) -->
 through the lens of Bayesian speech perception
-to improve our understanding of the structure of perceptual confusability,
+towards an improved understanding of perceptual confusability,
 particularly with respect to sounds like consonants whose acoustics are difficult to capture with a low-dimensional phonetic space.
 More recently, I have begun exploring mathematical connections between Bayesian notions of perceptual confusability and information-theoretic notions of communicative efficiency as a way to model simultaneous optimization of perceptual contrast and articulatory effort,
 a trade-off which has long been proposed as a driver of sound change and patterns of sound structure (cf. [Passy 1890](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=passy+1890&btnG=&oq=p), [Lindblom 1986](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=lindblom+1986+phonetic+universals&btnG=&oq=lindblom+1986+phonetic+u)).
