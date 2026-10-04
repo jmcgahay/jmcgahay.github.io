@@ -19,4 +19,4 @@ where I am advised by [Bruce Hayes](https://brucehayes.org/) and [Megha Sundara]
 My research uses computer simulations to show how wide-ranging aspects of natural language sound structure and sound change can emerge from the dynamic interaction of relatively superficial listener and speaker behaviors.
 
 You can read more about my work on my [research page](/research/).
-A list of my research publications and presentations, with links to PDF files for download, is also available on my [publications page](/publications/).
+A list of my publications and presentations, with links to PDF files for download, is available on my [publications page](/publications/).
