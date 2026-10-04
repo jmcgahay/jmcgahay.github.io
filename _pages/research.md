@@ -8,7 +8,7 @@ nav_order: 2
 
 In my [master's thesis](https://www.proquest.com/docview/3116041345),
 I introduced an algorithm called Iterated Confusion Minimization (ICM).
-Using a precise mathematical definition of listener confusion based in a Bayesian speech perception model,
+Using a definition of listener confusion based in a Bayesian speech perception model,
 ICM simulates the interaction of mathematically optimal listeners and speakers over time.
 Simulations implemented over the vowel space predict common sound changes like chain shifts and outperform existing vowel dispersion models in predicting cross-linguistic trends in vowel system structure.
 These results support the view that vowel system typology is emergent from sound change dynamics rather than needing to be hard-wired in the human language faculty.
@@ -26,12 +26,12 @@ as a counter-intuitive result of pressures to maximize perceptual contrast.
 For instance, ICM over words [predicts the <i>cot-caught</i> merger](../assets/pdf/mcgahay_lsa2027_abstract.pdf) in rhotic US English (where it is rapidly spreading) because it allows for reallocation of phonetic space for maintenance of more important vowel contrasts that distinguish a larger number of word minimal pairs.
 
 Related to this work,
-I am interested in [analyzing phoneme confusion matrix data](../assets/pdf/mcgahay_asa190_poster.pdf)
+I am interested in [analyzing experimental confusion matrix data](../assets/pdf/mcgahay_asa190_poster.pdf)
 <!-- (e.g. [Miller & Nicely 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) -->
 through the lens of Bayesian speech perception
 towards an improved understanding of perceptual confusability,
 particularly with respect to sounds like consonants whose acoustics are difficult to capture with a low-dimensional phonetic space.
-More recently, I have begun exploring mathematical connections between Bayesian notions of perceptual confusability and information-theoretic notions of communicative efficiency as a way to model simultaneous optimization of perceptual contrast and articulatory effort,
+More recently, I have embarked on an attempt to unify Bayesian notions of perceptual confusability with information-theoretic notions of communicative efficiency as a mathematically principled way to model simultaneous optimization of perceptual contrast and articulatory effort,
 a trade-off which has long been proposed as a driver of sound change and patterns of sound structure (cf. [Passy 1890](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=passy+1890&btnG=&oq=p), [Lindblom 1986](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=lindblom+1986+phonetic+universals&btnG=&oq=lindblom+1986+phonetic+u)).
 
 Beyond my core research program,
