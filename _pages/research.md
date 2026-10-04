@@ -6,114 +6,38 @@ nav: true
 nav_order: 2
 ---
 
-**<u>Peer-reviewed publications</u>**
+In my [master's thesis](https://www.proquest.com/docview/3116041345),
+I introduced an algorithm called Iterated Confusion Minimization (ICM).
+Using a precise mathematical definition of listener confusion based in a Bayesian speech perception model,
+ICM simulates the interaction of mathematically optimal listeners and speakers over time.
+Simulations implemented over the vowel space predict common sound changes like chain shifts and outperform existing vowel dispersion models in predicting cross-linguistic trends in vowel system structure.
+These results support the view that vowel system typology is emergent from sound change dynamics rather than needing to be hard-wired in the human language faculty.
+A short version of this work is available as an [Interspeech conference proceedings paper](../assets/pdf/mcgahay2025_interspeech2025.pdf),
+and a journal article version is currently under a second round of review at <i>Language</i>.
 
-<span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundara</span>. 2026.
-Vowel allophony improves maximum-likelihood classification of Warlpiri consonants.
-*Proceedings of Interspeech 2026*: 7090–7095.
-[[pdf]](../assets/pdf/cramMcgahaySundara2026_interspeech2026.pdf)
+Motivated by the fact that perception of speech segments is sensitive to larger phonetic sequences (e.g. [the Ganong effect](https://www.ovid.com/journals/jephp/fulltext/00004788-198002000-00011~phonetic-categorization-in-auditory-word-perception?casa_token=97FvS5j91P0AAAAA%3AvJFHsx-qLEvmV12EzcP-lTzQbKsdMfbndVnyF4xeVUhcXpGeVXbN52Fultqp58Mt-GU8BKUU5CaJ3jcznofqSFhUcX3OV2IXazfaoYs)),
+my PhD dissertation generalizes ICM beyond inventories of individual segments to larger sequences like biphones and words.
+For instance, ICM generalized over biphone sequences predicts allophony as a way to cue difficult conditioning contrasts,
+e.g. [vowel allophones to cue /k/-/q/ contrasts](../assets/pdf/mcgahay_lsa2026_abstract.pdf) in languages like Arabic or Quechua.
+<!-- (cf. [Gallagher 2016](https://karger.com/pho/article-abstract/73/2/101/274491/Vowel-Height-Allophony-and-Dorsal-Place-Contrasts)). -->
+In a similar vein, ICM over words predicts merger of contrasts with low functional load
+<!-- (cf. [Wedel et al. 2013](https://www.sciencedirect.com/science/article/pii/S0010027713000541?casa_token=9VK6eLWEemUAAAAA:K_96kIkpfckI9XB7D5w-SKY3jXQ8K737W8yTZoQQ7hq4rECihUznhqtZg1aU9PIftBArLgiial1Z)) -->
+as a counter-intuitive result of pressures to maximize perceptual contrast.
+For instance, ICM over words [predicts the <i>cot-caught</i> merger](../assets/pdf/mcgahay_lsa2027_abstract.pdf) in rhotic US English (where it is rapidly spreading) because it allows for reallocation of phonetic space for maintenance of more important vowel contrasts that distinguish a larger number of word minimal pairs.
 
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2025.
-Modeling vowel system typology using Iterated Confusion Minimization.
-*Proceedings of Interspeech 2025*: 2955–2959.
-[[pdf]](../assets/pdf/mcgahay2025_interspeech2025.pdf)
+Related to this work,
+I am interested in [analyzing phoneme confusion matrix data](../assets/pdf/mcgahay_asa190_poster.pdf)
+<!-- (e.g. [Miller & Nicely 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) -->
+through the lens of Bayesian speech perception
+to improve our understanding of the structure of perceptual confusability,
+particularly with respect to sounds like consonants whose acoustics are difficult to capture with a low-dimensional phonetic space.
+More recently, I have begun exploring mathematical connections between Bayesian notions of perceptual confusability and information-theoretic notions of communicative efficiency as a way to model a trade-off between maximizing perceptual contrast and minimizing articulatory effort that has long been hypothesized in phonetic theory.
 
-**<u>Manuscripts under review</u>**
+Beyond my core research program,
+I greatly enjoy collaborating with other researchers,
+especially when it allows me to exercise my (unironic) passion for Praat scripting.
+Recent collaborations include a corpus phonetic investigation of the availability of [perceptual cues to consonant place](../assets/pdf/cramMcgahaySundara2026_interspeech2026.pdf) in Australian languages with Coralie Cram and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/),
+pupillometric experiments investigating effects of high-frequency lexical neighbors in sentence processing with [Jesse Harris](https://jesseharris.netlify.app/) and [Christian Muxica](https://www.christian-muxica.com/),
+and acoustic analysis of English and Spanish lenition patterns across prosodic positions with a team led by [Jonah Katz](http://jonahkatz.bol.ucla.edu/) and [Sergio Robles-Puente](https://community.wvu.edu/~seroblespuente/).
 
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
-A theory of vowel system typology based on confusion minimization.
-Manuscript under review at *Language* (revised submission).
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
-Optimization of English vowels for word-level perception predicts dialect-specific susceptibility to the *cot-caught* merger.
-Manuscript submitted to ICPhS 2027.
-
-**<u>Manuscripts in preparation</u>**
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**.
-Rethinking phonetic contrast and effort: An information-theoretic approach.
-Manuscript in preparation.
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**.
-A computational model of allophony as dispersion over phonetic sequences.
-Manuscript in preparation.
-
-<span style="font-variant-caps: small-caps;">Harris, Jesse; Christian Muxica;</span> and **<span style="font-variant-caps: small-caps;">John McGahay</span>.**
-The neighborhood has gone to h\*ll: Competition from high frequency lexical neighbors in pupillometry.
-Manuscript in preparation.
-
-**<u>Academic theses</u>**
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2024.
-Vowel system typology and confusion minimization.
-Los Angeles, CA, USA: University of California, Los Angeles MA thesis.
-[[pdf]](../assets/pdf/mcgahay2024_mastersThesis.pdf)
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2019.
-The effect of conditioned mergers on underlying representations.
-Philadelphia, PA, USA: University of Pennsylvania BA honors thesis.
-[[pdf]](../assets/pdf/mcgahay2019_bachelorsHonorsThesis.pdf)
-
-**<u>Conference talks</u>**
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2027.
-Optimizing US English vowels for word-level perception predicts the *cot-caught* merger.
-Talk to be presented at the annual meeting of the Linguistic Society of America, San Francisco, CA, USA.
-[[abstract]](../assets/pdf/mcgahay_lsa2027_abstract.pdf)
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
-A computational model of allophony as dispersion over phonetic sequences.
-Talk presented at the annual meeting of the Linguistic Society of America, New Orleans, LA, USA.
-[[abstract]](../assets/pdf/mcgahay_lsa2026_abstract.pdf)
-[[slides]](../assets/pdf/mcgahay_lsa2026_slides.pdf)
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2025.
-Modeling vowel system typology using iterated confusion minimization.
-Talk presented at Interspeech 2025, Rotterdam, The Netherlands.
-[[proceedings]](../assets/pdf/mcgahay2025_interspeech2025.pdf)
-[[slides]](../assets/pdf/mcgahay_interspeech2025_slides.pdf)
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2019.
-The effect of conditioned mergers on underlying representations.
-Talk presented at the 43rd Penn Linguistics Conference, Philadelphia, PA, USA.
-
-**<u>Invited talks</u>**
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
-A computational theory of vowel system typology based on optimal listeners and speakers.
-Invited talk presented to the UC Berkeley PhonLab, Berkeley, CA, USA.
-[[slides]](../assets/pdf/mcgahay_berkeley2026_slides.pdf)
-
-**<u>Conference posters</u>**
-
-<span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundara</span>. 2026.
-Vowel allophony improves maximum-likelihood classification of Warlpiri consonants.
-Poster presented at Interspeech 2026, Sydney, NSW, Australia.
-[[proceedings]](../assets/pdf/cramMcgahaySundara2026_interspeech2026.pdf)
-[[poster]](../assets/pdf/cramMcgahaySundara_interspeech2026_poster1.pdf)
-
-<span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundara</span>. 2026.
-Vowel inventory size moderates the contribution of vowel allophony to consonant classification:
-Evidence from Warlpiri and Dalabon.
-Poster presented at Interspeech 2026, Sydney, NSW, Australia.
-[[poster]](../assets/pdf/cramMcgahaySundara_interspeech2026_poster2.pdf)
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
-A computational model of merger as phonetic dispersion over words.
-Poster presented at LabPhon 20, Montréal, QC, Canada.
-[[poster]](../assets/pdf/mcgahay_labphon2026_poster.pdf)
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
-A Bayesian account of perceptual asymmetries in confusion matrix data.
-Poster presented at the 190th meeting of the Acoustical Society of America, Philadelphia, PA, USA.
-[[poster]](../assets/pdf/mcgahay_asa190_poster.pdf)
-
-<span style="font-variant-caps: small-caps;">Boulom, Atlas; Coralie Cram; Nicholas Guymon;</span> **<span style="font-variant-caps: small-caps;">John McGahay</span>**; <span style="font-variant-caps: small-caps;">Zachary Metzler; Emma Montilla; Vishwas Shetty; Jian-Leat Siah;</span> and <span style="font-variant-caps: small-caps;">Meg Cychosz.</span> 2025.
-A systematic review and meta-analysis of the development of coarticulation in child speech.
-Poster presented at the 188th Meeting of the Acoustical Society of America, New Orleans, LA, USA.
-[[poster]](../assets/pdf/boulomEtAl_asa188_poster.pdf)
-
-**<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2023.
-A theory of vowel dispersion based on probabilistic modeling of optimized speakers and listeners.
-Poster presented at the 185th Meeting of the Acoustical Society of America, Sydney, NSW, Australia.
-[[poster]](../assets/pdf/mcgahay_asa185_poster.pdf)
+You can view a more comprehensive list of my research publications and presentations, with links to PDF files for download, on my [publications page](/publications/).
