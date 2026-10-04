@@ -36,7 +36,7 @@ a trade-off which has long been hypothesized in phonetic theory as a driver of s
 
 Beyond my core research program,
 I greatly enjoy collaborating with other researchers,
-especially when it allows me to exercise my (unironic) passion for Praat scripting.
+especially as an avenue to exercise my (unironic) passion for [Praat scripting](https://www.fon.hum.uva.nl/praat/manual/Scripting.html).
 Recent collaborations include a corpus phonetic investigation of the availability of [perceptual cues to consonant place](../assets/pdf/cramMcgahaySundara2026_interspeech2026.pdf) in Australian languages with Coralie Cram and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/),
 pupillometric experiments investigating effects of high-frequency lexical neighbors in sentence processing with [Jesse Harris](https://jesseharris.netlify.app/) and [Christian Muxica](https://www.christian-muxica.com/),
 and acoustic analysis of English and Spanish lenition patterns across prosodic positions with a team led by [Jonah Katz](http://jonahkatz.bol.ucla.edu/) and [Sergio Robles-Puente](https://community.wvu.edu/~seroblespuente/).
