@@ -31,7 +31,8 @@ I am interested in [analyzing phoneme confusion matrix data](../assets/pdf/mcgah
 through the lens of Bayesian speech perception
 to improve our understanding of the structure of perceptual confusability,
 particularly with respect to sounds like consonants whose acoustics are difficult to capture with a low-dimensional phonetic space.
-More recently, I have begun exploring mathematical connections between Bayesian notions of perceptual confusability and information-theoretic notions of communicative efficiency as a way to model a trade-off between maximizing perceptual contrast and minimizing articulatory effort that has long been hypothesized in phonetic theory.
+More recently, I have begun exploring mathematical connections between Bayesian notions of perceptual confusability and information-theoretic notions of communicative efficiency as a way to model simultaneous maximization of perceptual contrast and minimization of articulatory effort,
+a trade-off which has long been hypothesized in phonetic theory.
 
 Beyond my core research program,
 I greatly enjoy collaborating with other researchers,
