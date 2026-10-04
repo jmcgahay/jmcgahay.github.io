@@ -19,11 +19,10 @@ where I am advised by [Bruce Hayes](https://brucehayes.org/) and [Megha Sundara]
 My research uses computer simulations to show how wide-ranging aspects of natural language sound structure and sound change can emerge from the dynamic interaction of relatively superficial listener and speaker behaviors.
 
 In my [master's thesis](https://www.proquest.com/docview/3116041345),
-I introduced an algorithm called Iterated Confusion Minimization (ICM),
-which simulates the interaction of mathematically optimal listeners and speakers over time.
+I introduced an algorithm called Iterated Confusion Minimization (ICM).
 Using a precise mathematical definition of listener confusion based in a Bayesian speech perception model,
-this algorithm formalizes perception-production feedback mechanisms assumed by existing sound change models.
-ICM simulations implemented over the vowel space predict common sound changes like chain shifts and outperform existing vowel dispersion models in predicting cross-linguistic trends in vowel system structure.
+ICM simulates the interaction of mathematically optimal listeners and speakers over time.
+Simulations implemented over the vowel space predict common sound changes like chain shifts and outperform existing vowel dispersion models in predicting cross-linguistic trends in vowel system structure.
 These results support the view that vowel system typology is emergent from sound change dynamics rather than needing to be hard-wired in the human language faculty.
 A short version of this work is available as an [Interspeech conference proceedings paper](../assets/pdf/mcgahay2025_interspeech2025.pdf),
 and a journal article version is currently under a second round of review at <i>Language</i>.
@@ -44,7 +43,7 @@ I am interested in [analyzing phoneme confusion matrix data](../assets/pdf/mcgah
 through the lens of Bayesian speech perception
 to improve our understanding of the structure of perceptual confusability,
 particularly with respect to sounds like consonants whose acoustics are difficult to capture with a low-dimensional phonetic space.
-More recently, I have begun exploring mathematical connections between Bayesian notions of perceptual confusability and information-theoretic notions of communicative efficiency as a way to model the trade-off between maximizing perceptual contrast and minimizing articulatory effort that has long been hypothesized in phonetic theory.
+More recently, I have begun exploring mathematical connections between Bayesian notions of perceptual confusability and information-theoretic notions of communicative efficiency as a way to model a trade-off between maximizing perceptual contrast and minimizing articulatory effort that has long been hypothesized in phonetic theory.
 
 Beyond my core research program,
 I greatly enjoy collaborating with other researchers,
