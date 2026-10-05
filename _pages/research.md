@@ -6,11 +6,11 @@ nav: true
 nav_order: 2
 ---
 
-My research uses computer simulations to model the emergence of wide-ranging aspects of natural language sound structure from sound change dynamics.
-The centerpiece of this work in an algorithm called Iterated Confusion Minimization (ICM),
+My research uses computer simulations to model the emergence of various aspects of natural language sound structure from sound change dynamics.
+The centerpiece of this work in an algorithm called [Iterated Confusion Minimization (ICM)](../assets/pdf/mcgahay2025_interspeech2025.pdf),
 which models how perceptually optimal sound systems can emerge when listeners and speakers make small incremental improvements to their speech perception and production.
 More broadly,
-I am interested expanding our understanding of sound structure and change using mathematically rigorous definitions of 'good' sound systems,
+I am interested in expanding our understanding of sound structure and change using mathematically rigorous definitions of 'good' sound systems,
 particularly through the lens of Bayesian models of speech perception and information-theoretic notions of communicative efficiency.
 
 The following sections summarize various threads of my research program.
@@ -69,7 +69,7 @@ this work typically defines information rate in terms of the information-theoret
 which does not account for the fact that information can be lost to perceptual confusability.
 Nevertheless,
 the standard tools of Information Theory provide clear ways to account for information loss due to noisy perception;
-[Shannon's (1948) seminal paper] introducing Information Theory defined information rate not in terms of raw entropy but rather in terms of a value now called *mutual information*.
+[Shannon's (1948) seminal paper](https://ieeexplore.ieee.org/abstract/document/6773024) introducing Information Theory defined information rate not in terms of raw entropy but rather in terms of a value now called *mutual information*.
 Mutual information is equal to entropy (the expected amount of information transmitted without noise) minus a value called *equivocation*,
 equal to the expected amount of information lost to perceptual noise.
 The equivocation of a phonetic realization about an intended category (word/syllable/segment) gives a value remarkably similar to the confusion of a Bayesian listener used in my ICM simulations.
