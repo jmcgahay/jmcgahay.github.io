@@ -16,7 +16,8 @@ particularly through the lens of Bayesian models of speech perception and inform
 The following sections summarize various threads of my research program.
 You can view a more comprehensive list of my research publications and presentations, with links to PDF files for download, on my [publications page](/publications/).
 
-**<u>Iterated Confusion Minimization (ICM): explaining vowel system typology</u>**
+<details>
+<summary>**<u>Iterated Confusion Minimization (ICM): explaining vowel system typology</u>**</summary>
 
 In my [master's thesis](https://www.proquest.com/docview/3116041345),
 I introduced an algorithm called Iterated Confusion Minimization (ICM).
@@ -26,8 +27,10 @@ Simulations implemented over the vowel space predict common sound changes like c
 These results support the view that vowel system typology is emergent from sound change dynamics rather than needing to be hard-wired in the human language faculty.
 A short version of this work is available as an [Interspeech conference proceedings paper](../assets/pdf/mcgahay2025_interspeech2025.pdf),
 and a journal article version is currently under a second round of review.
+</details>
 
-**<u>Generalizing ICM to sequences: explaining allophony and merger</u>**
+<details>
+<summary>**<u>Generalizing ICM to sequences: explaining allophony and merger</u>**</summary>
 
 Motivated by the well-established sensitivity of speech segment perception to larger phonetic sequences (e.g. [the Ganong effect](https://www.ovid.com/journals/jephp/fulltext/00004788-198002000-00011~phonetic-categorization-in-auditory-word-perception?casa_token=97FvS5j91P0AAAAA%3AvJFHsx-qLEvmV12EzcP-lTzQbKsdMfbndVnyF4xeVUhcXpGeVXbN52Fultqp58Mt-GU8BKUU5CaJ3jcznofqSFhUcX3OV2IXazfaoYs)),
 my PhD dissertation generalizes ICM beyond inventories of individual segments to larger sequences like biphones and words.
@@ -39,7 +42,10 @@ In a similar vein, ICM over words predicts merger of contrasts with low function
 as a counter-intuitive result of pressures to maximize perceptual contrast.
 For instance, ICM over words [predicts the <i>cot-caught</i> merger](../assets/pdf/mcgahay_lsa2027_abstract.pdf) in rhotic US English (where it is rapidly spreading) because it allows for reallocation of phonetic space for maintenance of more important vowel contrasts that distinguish a larger number of word minimal pairs.
 
-**<u>Understanding confusion matrices through a Bayesian lens</u>**
+</details>
+
+<details>
+<summary>**<u>Understanding confusion matrices through a Bayesian lens</u>**</summary>
 
 Related to my work on Iterated Confusion Minimization,
 I am interested in [analyzing experimental confusion matrix data](../assets/pdf/mcgahay_asa190_poster.pdf)
@@ -56,9 +62,10 @@ In future work, I plan to simulate confusion matrix data using generative statis
 If such models succeed in predicting confusion matrix data for a variety of languages,
 this would validate computationally generating confusion matrices for other languages using acoustic models freely available on the internet (e.g. on the [Montreal Forced Aligner website](https://mfa-models.readthedocs.io/en/latest/acoustic/index.html#acoustic)).
 Such work could allow for creation of perceptual similarity measures even for low-resource languages lacking experimentally generated confusion matrices.
+</details>
 
-
-**<u>Reconceptualizing phonetic contrast and effort with Information Theory</u>**
+<details>
+<summary>**<u>Reconceptualizing phonetic contrast and effort with Information Theory</u>**</summary>
 
 More recently, I have embarked on an attempt to unify Bayesian notions of perceptual confusability with information-theoretic notions of communicative efficiency as a mathematically principled way to model simultaneous optimization of perceptual contrast and articulatory effort,
 a trade-off which has long been proposed as a driver of sound change and patterns of sound structure (cf. [Passy 1890](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=passy+1890&btnG=&oq=p), [Lindblom 1986](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=lindblom+1986+phonetic+universals&btnG=&oq=lindblom+1986+phonetic+u)).
@@ -69,7 +76,7 @@ this work typically defines information rate in terms of the information-theoret
 which does not account for the fact that information can be lost to perceptual confusability.
 Nevertheless,
 the standard tools of Information Theory provide clear ways to account for information loss due to noisy perception;
-[Shannon's (1948) seminal paper](https://ieeexplore.ieee.org/abstract/document/6773024) introducing Information Theory defined information rate not in terms of raw entropy but rather in terms of a value now called *mutual information*.
+[Shannon's (1948) seminal paper](https://ieeexplore.ieee.org/abstract/document/6773024) introducing Information Theory defined information transmission rate over a noisy channel not in terms of raw entropy but rather in terms of a value now called *mutual information*.
 Mutual information is equal to entropy (the expected amount of information transmitted without noise) minus a value called *equivocation*,
 equal to the expected amount of information lost to perceptual noise.
 The equivocation of a phonetic realization about an intended category (word/syllable/segment) gives a value remarkably similar to the confusion of a Bayesian listener used in my ICM simulations.
@@ -79,10 +86,10 @@ Dividing by expected duration to get the mutual information rate of intended cat
 My ICM algorithm can be generalized to model emergent optimization of this definition of efficiency through perception-production feedback.
 Preliminarily,
 this work appears to predict aspects of voice onset time typology as well as information-theoretic effects reported in phonetic reduction patterns.
+</details>
 
-
-
-**<u>Collaborations</u>**
+<details>
+<summary>**<u>Collaborations</u>**</summary>
 
 Beyond my core research program,
 I greatly enjoy collaborating with other researchers,
@@ -90,3 +97,4 @@ especially as an avenue to exercise my (unironic) passion for [Praat scripting](
 Recent collaborations include a corpus phonetic investigation of the availability of [perceptual cues to consonant place](../assets/pdf/cramMcgahaySundara2026_interspeech2026.pdf) in Australian languages with Coralie Cram and [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/),
 pupillometric phonemic restoration experiments investigating effects of high-frequency lexical neighbors in sentence processing with [Jesse Harris](https://jesseharris.netlify.app/) and [Christian Muxica](https://www.christian-muxica.com/),
 and acoustic analysis of English and Spanish lenition patterns across prosodic positions with a team led by [Jonah Katz](http://jonahkatz.bol.ucla.edu/) and [Sergio Robles-Puente](https://community.wvu.edu/~seroblespuente/).
+</details>
