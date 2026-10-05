@@ -22,7 +22,7 @@ Modeling vowel system typology using Iterated Confusion Minimization.
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
 A theory of vowel system typology based on confusion minimization.
-Manuscript under review at *Language* (revised submission).
+Manuscript under review (revised and resubmited).
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
 Optimization of English vowels for word-level perception predicts dialect-specific susceptibility to the *cot-caught* merger.
