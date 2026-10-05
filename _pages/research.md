@@ -16,7 +16,7 @@ particularly through the lens of Bayesian models of speech perception and inform
 The following sections summarize various threads of my research program.
 You can view a more comprehensive list of my research publications and presentations, with links to PDF files for download, on my [publications page](/publications/).
 
-<details>
+<details markdown="1">
 <summary>Iterated Confusion Minimization (ICM): explaining vowel system typology</summary>
 
 In my [master's thesis](https://www.proquest.com/docview/3116041345),
@@ -29,7 +29,7 @@ A short version of this work is available as an [Interspeech conference proceedi
 and a journal article version is currently under a second round of review.
 </details>
 
-<details>
+<details markdown="1">
 <summary>Generalizing ICM to sequences: explaining allophony and merger</summary>
 
 Motivated by the well-established sensitivity of speech segment perception to larger phonetic sequences (e.g. [the Ganong effect](https://www.ovid.com/journals/jephp/fulltext/00004788-198002000-00011~phonetic-categorization-in-auditory-word-perception?casa_token=97FvS5j91P0AAAAA%3AvJFHsx-qLEvmV12EzcP-lTzQbKsdMfbndVnyF4xeVUhcXpGeVXbN52Fultqp58Mt-GU8BKUU5CaJ3jcznofqSFhUcX3OV2IXazfaoYs)),
@@ -44,7 +44,7 @@ For instance, ICM over words [predicts the <i>cot-caught</i> merger](../assets/p
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Understanding confusion matrices through a Bayesian lens</summary>
 
 Related to my work on Iterated Confusion Minimization,
@@ -64,7 +64,7 @@ this would validate computationally generating confusion matrices for other lang
 Such work could allow for creation of perceptual similarity measures even for low-resource languages lacking experimentally generated confusion matrices.
 </details>
 
-<details>
+<details markdown="1">
 <summary>Reconceptualizing phonetic contrast and effort with Information Theory</summary>
 
 More recently, I have embarked on an attempt to unify Bayesian notions of perceptual confusability with information-theoretic notions of communicative efficiency as a mathematically principled way to model simultaneous optimization of perceptual contrast and articulatory effort,
@@ -88,7 +88,7 @@ Preliminarily,
 this work appears to predict aspects of voice onset time typology as well as information-theoretic effects reported in phonetic reduction patterns.
 </details>
 
-<details>
+<details markdown="1">
 <summary>Collaborations</summary>
 
 Beyond my core research program,
