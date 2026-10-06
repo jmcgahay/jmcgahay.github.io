@@ -62,7 +62,7 @@ This is particularly useful for modeling confusability of consonants, whose acou
 In future work, I plan to simulate confusion matrix data using generative statistical models that draw on likelihoods from more sophisticated acoustic models like those used in automatic speech recognition (e.g. HMM/GMMs).
 If such models succeed in predicting confusion matrix data for a variety of languages,
 this would validate computationally generating confusion matrices for other languages using acoustic models freely available on the internet (e.g. on the [Montreal Forced Aligner website](https://mfa-models.readthedocs.io/en/latest/acoustic/index.html#acoustic)).
-Such work could allow for creation of perceptual similarity measures even for low-resource languages lacking experimentally generated confusion matrices.
+Such work could allow for calculation of perceptual similarity measures even for low-resource languages lacking experimentally generated confusion matrices.
 </details>
 
 <details markdown="1">
