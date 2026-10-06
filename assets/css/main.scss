@@ -34,7 +34,7 @@ details {
 }
 
 details:not([open]) {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.5rem !important;
 }
 
 details summary {
