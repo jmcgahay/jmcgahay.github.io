@@ -47,7 +47,7 @@ For instance, ICM over words [predicts the <i>cot-caught</i> merger](../assets/p
 </details>
 
 <details markdown="1">
-<summary><b><u>Understanding confusion matrices through a Bayesian lens</u></b></summary>
+<summary><b><u>Analyzing confusion matrices through a Bayesian lens</u></b></summary>
 
 <br>
 Related to my work on Iterated Confusion Minimization,
