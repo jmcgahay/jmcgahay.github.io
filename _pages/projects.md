@@ -80,7 +80,7 @@ this work typically defines information rate in terms of the information-theoret
 which does not account for the fact that information can be lost to perceptual confusability.
 Nevertheless,
 the standard tools of Information Theory provide clear ways to account for information loss due to noisy perception;
-[Shannon's (1948) seminal paper](https://ieeexplore.ieee.org/abstract/document/6773024) introducing Information Theory defined information transmission rate over a noisy channel not in terms of raw entropy but rather in terms of a value now called *mutual information*.
+[Shannon's seminal 1948 paper](https://ieeexplore.ieee.org/abstract/document/6773024) introducing Information Theory defined information transmission rate over a noisy channel not in terms of raw entropy but rather in terms of a value now called *mutual information*.
 Mutual information is equal to entropy (the expected amount of information transmitted without noise) minus a value called *equivocation*,
 equal to the expected amount of information lost to perceptual noise.
 The equivocation of a phonetic realization about an intended category (word/syllable/segment) gives a value remarkably similar to the confusion of a Bayesian listener used in my ICM simulations.
