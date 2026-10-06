@@ -25,6 +25,7 @@ $max-content-width: {{ site.max_width }};
   "custom"
 ;
 
-html {
+html,
+body {
   overflow-y: scroll;
 }
