@@ -27,8 +27,8 @@ ICM simulates the interaction of mathematically optimal listeners and speakers o
 Simulations implemented over the vowel space predict common sound changes like chain shifts and outperform existing vowel dispersion models in predicting cross-linguistic trends in vowel system structure.
 These results support the view that vowel system typology is emergent from sound change dynamics rather than needing to be hard-wired in the human language faculty.
 
-A short version of this work is available as an [Interspeech conference proceedings paper](../assets/pdf/mcgahay2025_interspeech2025.pdf),
-and a journal article version is currently under a second round of review.
+A short version of this work is available as an [Interspeech conference proceedings paper](../assets/pdf/mcgahay2025_interspeech2025.pdf).
+A journal article version is currently under a second round of review.
 </details>
 
 <details markdown="1">

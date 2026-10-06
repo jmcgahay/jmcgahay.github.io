@@ -24,3 +24,7 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss",
   "custom"
 ;
+
+html {
+  overflow-y: scroll;
+}
