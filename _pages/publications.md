@@ -31,7 +31,7 @@ Manuscript submitted to ICPhS 2027.
 **<u>Manuscripts in preparation</u>**
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**.
-Rethinking phonetic contrast and effort: An information-theoretic approach.
+Reconceptualizing phonetic contrast and effort: An information-theoretic approach.
 Manuscript in preparation.
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**.
