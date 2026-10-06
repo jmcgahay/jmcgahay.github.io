@@ -7,11 +7,11 @@ nav_order: 2
 ---
 
 My research uses computer simulations to model the emergence of various aspects of natural language sound structure from sound change dynamics.
-The centerpiece of this work in an algorithm called [Iterated Confusion Minimization (ICM)](../assets/pdf/mcgahay2025_interspeech2025.pdf),
+The centerpiece of this work is an algorithm called [Iterated Confusion Minimization (ICM)](../assets/pdf/mcgahay2025_interspeech2025.pdf),
 which models how perceptually optimal sound systems can emerge when listeners and speakers make small incremental improvements to their speech perception and production.
 More broadly,
 I am interested in expanding our understanding of sound structure and change using mathematically rigorous definitions of 'good' sound systems based on measurable features of the speech signal,
-particularly through the lens of Bayesian models of speech perception and information-theoretic notions of communicative efficiency.
+informed by Bayesian models of speech perception and information-theoretic notions of communicative efficiency.
 
 The following sections summarize various threads of my research program.
 You can view a more comprehensive list of my research publications and presentations, with links to PDF files for download, on my [publications page](/publications/).
