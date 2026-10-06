@@ -17,9 +17,8 @@ The following sections summarize various threads of my research program.
 You can view a more comprehensive list of my research publications and presentations, with links to PDF files for download, on my [publications page](/publications/).
 
 <details markdown="1">
-<summary><b><u>Iterated Confusion Minimization (ICM): explaining vowel system typology</u></b></summary>
+<summary>Iterated Confusion Minimization (ICM): explaining vowel system typology</summary>
 
-<br>
 In my [master's thesis](https://www.proquest.com/docview/3116041345),
 I introduced an algorithm called Iterated Confusion Minimization (ICM).
 Using a definition of listener confusion based in a Bayesian model of speech perception,
@@ -32,9 +31,8 @@ A journal article version is currently under a second round of review.
 </details>
 
 <details markdown="1">
-<summary><b><u>Generalizing ICM to sequences: predicting allophony and merger</u></b></summary>
+<summary>Generalizing ICM to sequences: predicting allophony and merger</summary>
 
-<br>
 Motivated by the well-established sensitivity of speech segment perception to larger phonetic sequences (e.g. [the Ganong effect](https://www.ovid.com/journals/jephp/fulltext/00004788-198002000-00011~phonetic-categorization-in-auditory-word-perception?casa_token=97FvS5j91P0AAAAA%3AvJFHsx-qLEvmV12EzcP-lTzQbKsdMfbndVnyF4xeVUhcXpGeVXbN52Fultqp58Mt-GU8BKUU5CaJ3jcznofqSFhUcX3OV2IXazfaoYs)),
 my PhD dissertation generalizes ICM beyond inventories of individual segments to larger sequences like biphones and words.
 For instance, ICM generalized over biphone sequences predicts allophony as a way to cue difficult conditioning contrasts,
@@ -48,9 +46,8 @@ For instance, ICM over words [predicts the <i>cot-caught</i> merger](../assets/p
 </details>
 
 <details markdown="1">
-<summary><b><u>Analyzing confusion matrices through a Bayesian lens</u></b></summary>
+<summary>Analyzing confusion matrices through a Bayesian lens</summary>
 
-<br>
 Related to my work on Iterated Confusion Minimization,
 I am interested in [analyzing experimental confusion matrix data](../assets/pdf/mcgahay_asa190_poster.pdf)
 <!-- (e.g. [Miller & Nicely 1955](http://jontalle.web.engr.illinois.edu/uploads/MISC/ReadingGroup.11/Papers/MillerandNicely_1955.pdf)) -->
@@ -69,9 +66,8 @@ Such work could allow for creation of perceptual similarity measures even for lo
 </details>
 
 <details markdown="1">
-<summary><b><u>Reconceptualizing phonetic contrast and effort with Information Theory</u></b></summary>
+<summary>Reconceptualizing phonetic contrast and effort with Information Theory</summary>
 
-<br>
 More recently, I have embarked on an attempt to unify Bayesian notions of perceptual confusability with information-theoretic notions of communicative efficiency as a mathematically principled way to model simultaneous optimization of perceptual contrast and articulatory effort,
 a trade-off which has long been proposed as a driver of sound change and patterns of sound structure (cf. [Passy 1890](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=passy+1890&btnG=&oq=p), [Lindblom 1986](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=lindblom+1986+phonetic+universals&btnG=&oq=lindblom+1986+phonetic+u)).
 
@@ -94,9 +90,8 @@ this work appears to predict aspects of voice onset time typology as well as inf
 </details>
 
 <details markdown="1">
-<summary><b><u>Collaborations</u></b></summary>
+<summary>Collaborations</summary>
 
-<br>
 Beyond my core research program,
 I greatly enjoy collaborating with other researchers,
 especially as an avenue to exercise my (unironic) passion for [Praat scripting](https://www.fon.hum.uva.nl/praat/manual/Scripting.html).

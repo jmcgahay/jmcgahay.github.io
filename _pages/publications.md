@@ -6,7 +6,8 @@ nav: true
 nav_order: 3
 ---
 
-**<u>Peer-reviewed publications</u>**
+<details markdown="1" open>
+<summary>Peer-reviewed publications</summary>
 
 <span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundara</span>. 2026.
 Vowel allophony improves maximum-likelihood classification of Warlpiri consonants.
@@ -17,18 +18,22 @@ Vowel allophony improves maximum-likelihood classification of Warlpiri consonant
 Modeling vowel system typology using Iterated Confusion Minimization.
 *Proceedings of Interspeech 2025*: 2955–2959.
 [[pdf]](../assets/pdf/mcgahay2025_interspeech2025.pdf)
+</details>
 
-**<u>Manuscripts under review</u>**
+<details markdown="1" open>
+<summary>Manuscripts under review</summary>
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
 A theory of vowel system typology based on confusion minimization.
-Manuscript under review (revised and resubmited).
+Manuscript under review (revised and resubmitted).
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
 Optimization of English vowels for word-level perception predicts dialect-specific susceptibility to the *cot-caught* merger.
 Manuscript submitted to ICPhS 2027.
+</details>
 
-**<u>Manuscripts in preparation</u>**
+<details markdown="1" open>
+<summary>Manuscripts in preparation</summary>
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**.
 Reconceptualizing phonetic contrast and effort: An information-theoretic approach.
@@ -41,8 +46,10 @@ Manuscript in preparation.
 <span style="font-variant-caps: small-caps;">Harris, Jesse; Christian Muxica;</span> and **<span style="font-variant-caps: small-caps;">John McGahay</span>.**
 The neighborhood has gone to h\*ll: Competition from high frequency lexical neighbors in pupillometry.
 Manuscript in preparation.
+</details>
 
-**<u>Academic theses</u>**
+<details markdown="1" open>
+<summary>Academic theses</summary>
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2024.
 Vowel system typology and confusion minimization.
@@ -53,8 +60,10 @@ Los Angeles, CA, USA: University of California, Los Angeles MA thesis.
 The effect of conditioned mergers on underlying representations.
 Philadelphia, PA, USA: University of Pennsylvania BA honors thesis.
 [[pdf]](../assets/pdf/mcgahay2019_bachelorsHonorsThesis.pdf)
+</details>
 
-**<u>Conference talks</u>**
+<details markdown="1" open>
+<summary>Conference talks</summary>
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2027.
 Optimizing US English vowels for word-level perception predicts the *cot-caught* merger.
@@ -76,15 +85,19 @@ Talk presented at Interspeech 2025, Rotterdam, The Netherlands.
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2019.
 The effect of conditioned mergers on underlying representations.
 Talk presented at the 43rd Penn Linguistics Conference, Philadelphia, PA, USA.
+</details>
 
-**<u>Invited talks</u>**
+<details markdown="1" open>
+<summary>Invited talks</summary>
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
 A computational theory of vowel system typology based on optimal listeners and speakers.
 Invited talk presented to the UC Berkeley PhonLab, Berkeley, CA, USA.
 [[slides]](../assets/pdf/mcgahay_berkeley2026_slides.pdf)
+</details>
 
-**<u>Conference posters</u>**
+<details markdown="1" open>
+<summary>Conference posters</summary>
 
 <span style="font-variant-caps: small-caps;">Cram, Coralie</span>; **<span style="font-variant-caps: small-caps;">John McGahay</span>**; and <span style="font-variant-caps: small-caps;">Megha Sundara</span>. 2026.
 Vowel allophony improves maximum-likelihood classification of Warlpiri consonants.
@@ -117,3 +130,4 @@ Poster presented at the 188th Meeting of the Acoustical Society of America, New 
 A theory of vowel dispersion based on probabilistic modeling of optimized speakers and listeners.
 Poster presented at the 185th Meeting of the Acoustical Society of America, Sydney, NSW, Australia.
 [[poster]](../assets/pdf/mcgahay_asa185_poster.pdf)
+</details>
