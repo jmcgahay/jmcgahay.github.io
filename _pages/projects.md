@@ -26,6 +26,7 @@ Using a definition of listener confusion based in a Bayesian model of speech per
 ICM simulates the interaction of mathematically optimal listeners and speakers over time.
 Simulations implemented over the vowel space predict common sound changes like chain shifts and outperform existing vowel dispersion models in predicting cross-linguistic trends in vowel system structure.
 These results support the view that vowel system typology is emergent from sound change dynamics rather than needing to be hard-wired in the human language faculty.
+
 A short version of this work is available as an [Interspeech conference proceedings paper](../assets/pdf/mcgahay2025_interspeech2025.pdf),
 and a journal article version is currently under a second round of review.
 </details>
@@ -74,7 +75,7 @@ Such work could allow for creation of perceptual similarity measures even for lo
 More recently, I have embarked on an attempt to unify Bayesian notions of perceptual confusability with information-theoretic notions of communicative efficiency as a mathematically principled way to model simultaneous optimization of perceptual contrast and articulatory effort,
 a trade-off which has long been proposed as a driver of sound change and patterns of sound structure (cf. [Passy 1890](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=passy+1890&btnG=&oq=p), [Lindblom 1986](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=lindblom+1986+phonetic+universals&btnG=&oq=lindblom+1986+phonetic+u)).
 
-A large body of work has suggested than languages optimize information rate by shortening durations of predictable (i.e. low-information) words, syllables, or segments.
+A large body of work has suggested that languages optimize information rate by shortening durations of predictable (i.e. low-information) words, syllables, or segments.
 However,
 this work typically defines information rate in terms of the information-theoretic value of entropy (usually conditioned on context),
 which does not account for the fact that information can be lost to perceptual confusability.
@@ -87,7 +88,7 @@ The equivocation of a phonetic realization about an intended category (word/syll
 Dividing by expected duration to get the mutual information rate of intended categories and phonetic realizations thus provides a tidy definition of communicative efficiency that incorporates both perceptual contrast (through the equivocation term) and articulatory effort (through the duration term).
 
 
-My ICM algorithm can be generalized to model emergent optimization of this definition of efficiency through perception-production feedback.
+My ICM algorithm can be generalized to simulate emergent optimization of this definition of efficiency through perception-production feedback.
 Preliminarily,
 this work appears to predict aspects of voice onset time typology as well as information-theoretic effects reported in phonetic reduction patterns.
 </details>
