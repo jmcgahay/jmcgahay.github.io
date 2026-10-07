@@ -28,8 +28,8 @@ A theory of vowel system typology based on confusion minimization.
 Manuscript under review (revised and resubmitted).
 
 **<span style="font-variant-caps: small-caps;">McGahay, John</span>**. 2026.
-Optimization of English vowels for word-level perception predicts dialect-specific susceptibility to the *cot-caught* merger.
-Manuscript submitted to ICPhS 2027.
+Optimizing English vowels for word-level perception predicts dialect-specific susceptibility to the *cot-caught* merger.
+Manuscript under review. 
 </details>
 
 <details markdown="1" open>
